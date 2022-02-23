@@ -18,3 +18,5 @@
 2008. [数值统计](https://github.com/ZhengzxDev/hdu_oj_page_eleven/blob/main/questions/question_2008.md)
 2009. [求数列的和](https://github.com/ZhengzxDev/hdu_oj_page_eleven/blob/main/questions/question_2009.md)
 2010. [水仙花数](https://github.com/ZhengzxDev/hdu_oj_page_eleven/blob/main/questions/question_2010.md)
+2011. [多项式求和](https://github.com/ZhengzxDev/hdu_oj_page_eleven/blob/main/questions/question_2011.md)
+2012. [素数判定](https://github.com/ZhengzxDev/hdu_oj_page_eleven/blob/main/questions/question_2012.md)
