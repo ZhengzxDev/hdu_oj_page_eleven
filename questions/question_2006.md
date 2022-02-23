@@ -1,6 +1,6 @@
 # HDU OJ 第11页
 
-## 6 - 求奇数的乘积
+## 2006 - 求奇数的乘积
 
 
 ### Problem Description
@@ -24,3 +24,7 @@
 3
 15
 ```
+
+### 参考代码
+
+###### c++ [code_2006](https://github.com/ZhengzxDev/hdu_oj_page_eleven/blob/main/codes/c%2B%2B/question_2006.cpp)

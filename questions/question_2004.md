@@ -1,6 +1,6 @@
 # HDU OJ 第11页
 
-## 4 - 成绩转换
+## 2004 - 成绩转换
 
 
 ### Problem Description
@@ -27,3 +27,7 @@
 ```
 E D A Score is error!
 ```
+
+### 参考代码
+
+###### c++ [code_2004](https://github.com/ZhengzxDev/hdu_oj_page_eleven/blob/main/codes/c%2B%2B/question_2004.cpp)

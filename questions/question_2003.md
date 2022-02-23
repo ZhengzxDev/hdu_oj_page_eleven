@@ -1,6 +1,6 @@
 # HDU OJ 第11页
 
-## 3 - 求绝对值
+## 2003 - 求绝对值
 
 
 ### Problem Description
@@ -22,3 +22,7 @@
 ```
 123.00 234.00
 ```
+
+### 参考代码
+
+###### c++ [code_2003](https://github.com/ZhengzxDev/hdu_oj_page_eleven/blob/main/codes/c%2B%2B/question_2003.cpp)

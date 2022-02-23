@@ -1,6 +1,6 @@
 # HDU OJ 第11页
 
-## 5 - 第几天？
+## 2005 - 第几天？
 
 
 ### Problem Description
@@ -22,3 +22,7 @@
 ```
 20 71
 ```
+
+### 参考代码
+
+###### c++ [code_2005](https://github.com/ZhengzxDev/hdu_oj_page_eleven/blob/main/codes/c%2B%2B/question_2005.cpp)
