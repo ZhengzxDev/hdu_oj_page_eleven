@@ -1,6 +1,6 @@
 # HDU OJ 第11页
 
-## 8 - 数值统计
+## 2008 - 数值统计
 
 
 ### Problem Description
@@ -27,3 +27,7 @@
 1 2 3
 0 0 5
 ```
+
+### 参考代码
+
+###### c++ [code_2008](https://github.com/ZhengzxDev/hdu_oj_page_eleven/blob/main/codes/c%2B%2B/question_2008.cpp)

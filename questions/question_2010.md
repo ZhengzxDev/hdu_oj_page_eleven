@@ -28,3 +28,7 @@
 no
 370 371
 ```
+
+### 参考代码
+
+###### c++ [code_2010](https://github.com/ZhengzxDev/hdu_oj_page_eleven/blob/main/codes/c%2B%2B/question_2010.cpp)

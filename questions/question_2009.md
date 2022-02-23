@@ -1,6 +1,6 @@
 # HDU OJ 第11页
 
-## 9 - 求数列的和
+## 2009 - 求数列的和
 
 
 ### Problem Description
@@ -25,3 +25,7 @@
 94.73
 3.41
 ```
+
+### 参考代码
+
+###### c++ [code_2009](https://github.com/ZhengzxDev/hdu_oj_page_eleven/blob/main/codes/c%2B%2B/question_2009.cpp)
